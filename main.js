@@ -1,6 +1,6 @@
 const APP_ID = "b0a58125da9d4dc18b332457e0e79690"
 const TOKEN = "007eJxTYJBXN/k288Dbki1Sa7/WFZYxSUe+LP94/5CbTFPJrwuLNJQUGJIMEk0tDI1MUxItU0xSkg0tkoyNjUxMzVMNUs0tzSwNUtq40hsCGRnWZZ5gYIRCEJ+FIS8pPYmBAQB5Sx+W"
-const CHANNEL = "alloso"
+const CHANNEL = "Nbgb"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
