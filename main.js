@@ -1,6 +1,6 @@
-const APP_ID = "b0a58125da9d4dc18b332457e0e79690"
-const TOKEN = "007eJxTYJBXN/k288Dbki1Sa7/WFZYxSUe+LP94/5CbTFPJrwuLNJQUGJIMEk0tDI1MUxItU0xSkg0tkoyNjUxMzVMNUs0tzSwNUtq40hsCGRnWZZ5gYIRCEJ+FIS8pPYmBAQB5Sx+W"
-const CHANNEL = "nbgb"
+const APP_ID = "ae15eef65d4b4f8a97e90c9e6a2b6a44"
+const TOKEN = "007eJxTYPg++eiatBn3JD+1aKw9uWwHS4euqnrhr+VbqmsPNmyebrlXgSEx1dA0NTXNzDTFJMkkzSLR0jzV0iDZMtUs0SjJLNHERPkWb3pDICPD382MLIwMEAjiszDkpuaXMzAAABa4Ic4="
+const CHANNEL = "meow"
 
 const client = AgoraRTC.createClient({mode:'rtc', codec:'vp8'})
 
